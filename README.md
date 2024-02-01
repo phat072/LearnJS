@@ -7,4 +7,5 @@ There are 15 parts included:
   + Learn how to read and write files  Asynchronously 
   + Learn how to create a simple web server 
   + Building HTML templates
+  + Learn how to build my own modules
 - Part 3: 
