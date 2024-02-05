@@ -10,4 +10,8 @@ There are 15 parts included:
   + Learn how to build my own modules
   + Learn NPMjs
   + Setting up Prettier 
-- Part 3: 
+- Part 3:
+  + How the web works
+  + HTTP in Action
+  + Front-End vs. Back-End Web Development
+  + Static vs Dynamic vs API
